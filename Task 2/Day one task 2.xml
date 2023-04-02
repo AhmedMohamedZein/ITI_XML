@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<library>
+	<location>New York City</location>
+	<description>This is a public library with a large collection of books.</description>
+	<librarian>John Smith</librarian>
+	<books>
+		<book ISBN="123456">
+			<title>The Catcher in the Rye</title>
+			<author>J.D. Salinger</author>
+			<parts>
+				<part>
+					<title>Part 1</title>
+					<chapters>
+						<chapter>
+							<title>Chapter 1</title>
+							<summary>Holden Caulfield is introduced.</summary>
+							<sections>
+								<paragraph>It was a nice day...</paragraph>
+								<paragraph>Holden Caulfield was walking down the street...</paragraph>
+								<paragraph>He decided to go to a bar...</paragraph>
+								<paragraph>He met a girl...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 2</title>
+							<summary>Holden meets an old friend.</summary>
+							<sections>
+								<paragraph>Holden walks to his old school...</paragraph>
+								<paragraph>He sees an old friend...</paragraph>
+								<paragraph>They talk about old times...</paragraph>
+								<paragraph>Holden decides to leave...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 3</title>
+							<summary>Holden spends time with his sister.</summary>
+							<sections>
+								<paragraph>Holden goes to his sister's school...</paragraph>
+								<paragraph>They talk about their plans for the future...</paragraph>
+								<paragraph>Holden decides to leave...</paragraph>
+								<paragraph>He feels sad...</paragraph>
+							</sections>
+						</chapter>
+					</chapters>
+				</part>
+				<part>
+					<title>Part 2</title>
+					<chapters>
+						<chapter>
+							<title>Chapter 4</title>
+							<summary>Holden goes on a date.</summary>
+							<sections>
+								<paragraph>Holden meets a girl...</paragraph>
+								<paragraph>They go to a show...</paragraph>
+								<paragraph>Holden feels bored...</paragraph>
+								<paragraph>He leaves the show...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 5</title>
+							<summary>Holden spends time with an acquaintance.</summary>
+							<sections>
+								<paragraph>Holden goes to a party...</paragraph>
+								<paragraph>He sees an acquaintance...</paragraph>
+								<paragraph>They talk about old times...</paragraph>
+								<paragraph>Holden feels sad...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 6</title>
+							<summary>Holden goes on a trip.</summary>
+							<sections>
+								<paragraph>Holden takes a train to the countryside...</paragraph>
+								<paragraph>He meets a young girl...</paragraph>
+								<paragraph>They talk about life...</paragraph>
+								<paragraph>Holden feels hopeful...</paragraph>
+							</sections>
+						</chapter>
+					</chapters>
+				</part>
+			</parts>
+		</book>
+		<book ISBN="56789">
+			<title>The Catcher in the Rye</title>
+			<author>J.D. Salinger</author>
+			<parts>
+				<part>
+					<title>Part 1</title>
+					<chapters>
+						<chapter>
+							<title>Chapter 1</title>
+							<summary>Holden Caulfield is introduced.</summary>
+							<sections>
+								<paragraph>It was a nice day...</paragraph>
+								<paragraph>Holden Caulfield was walking down the street...</paragraph>
+								<paragraph>He decided to go to a bar...</paragraph>
+								<paragraph>He met a girl...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 2</title>
+							<summary>Holden meets an old friend.</summary>
+							<sections>
+								<paragraph>Holden walks to his old school...</paragraph>
+								<paragraph>He sees an old friend...</paragraph>
+								<paragraph>They talk about old times...</paragraph>
+								<paragraph>Holden decides to leave...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 3</title>
+							<summary>Holden spends time with his sister.</summary>
+							<sections>
+								<paragraph>Holden goes to his sister's school...</paragraph>
+								<paragraph>They talk about their plans for the future...</paragraph>
+								<paragraph>Holden decides to leave...</paragraph>
+								<paragraph>He feels sad...</paragraph>
+							</sections>
+						</chapter>
+					</chapters>
+				</part>
+				<part>
+					<title>Part 2</title>
+					<chapters>
+						<chapter>
+							<title>Chapter 4</title>
+							<summary>Holden goes on a date.</summary>
+							<sections>
+								<paragraph>Holden meets a girl...</paragraph>
+								<paragraph>They go to a show...</paragraph>
+								<paragraph>Holden feels bored...</paragraph>
+								<paragraph>He leaves the show...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 5</title>
+							<summary>Holden spends time with an acquaintance.</summary>
+							<sections>
+								<paragraph>Holden goes to a party...</paragraph>
+								<paragraph>He sees an acquaintance...</paragraph>
+								<paragraph>They talk about old times...</paragraph>
+								<paragraph>Holden feels sad...</paragraph>
+							</sections>
+						</chapter>
+						<chapter>
+							<title>Chapter 6</title>
+							<summary>Holden goes on a trip.</summary>
+							<sections>
+								<paragraph>Holden takes a train to the countryside...</paragraph>
+								<paragraph>He meets a young girl...</paragraph>
+								<paragraph>They talk about life...</paragraph>
+								<paragraph>Holden feels hopeful...</paragraph>
+							</sections>
+						</chapter>
+					</chapters>
+				</part>
+			</parts>
+		</book>
+	</books>
+</library>

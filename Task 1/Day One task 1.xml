@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="dayone.css"?>
+
+<contacts>
+	
+	<employee>
+		<name>Ahmed Zein</name>
+		<phone type="moblie">01120273779</phone>
+		<phone type="home">035248697</phone>
+		<email>ahmedzain@gmail.com</email>
+		<address>
+				<street> Cairo </street>
+				<building> 609 </building>
+				<number> 17 </number>
+				<region> Sidi behser </region>
+				<city> Alexandria </city>
+				<country> Egypr </country>
+		</address>
+		<address>
+				<street> Por said </street>
+				<building> 134 </building>
+				<number> 36 </number>
+				<region> Sidi gaber </region>
+				<city> Alexandria </city>
+				<country> Egypr </country>
+		</address>
+	</employee>
+	
+	<employee>
+		<name>Mohamed Zein</name>
+		<phone type="moblie">01143165987</phone>
+		<phone type="work">01043165987</phone>
+		<email>mohamedzain@gmail.com</email>
+		<address>
+				<street> Cairo </street>
+				<building> 609 </building>
+				<number> 17 </number>
+				<region> Sidi behser </region>
+				<city> Alexandria </city>
+				<country> Egypr </country>
+		</address>
+		<address>
+				<street> Por said </street>
+				<building> 134 </building>
+				<number> 36 </number>
+				<region> Sidi gaber </region>
+				<city> Alexandria </city>
+				<country> Egypr </country>
+		</address>
+	</employee>
+	
+	<employee>
+		<name>Abd Elrhman Zein</name>
+		<phone type="moblie">01100012315</phone>
+		<phone type="work">01000012315</phone>
+		<email>abdelrhmanzain@gmail.com</email>		
+		<address>
+				<street> Cairo </street>
+				<building> 609 </building>
+				<number> 17 </number>
+				<region> Sidi behser </region>
+				<city> Alexandria </city>
+				<country> Egypr </country>
+		</address>
+		<address>
+				<street> Por said </street>
+				<building> 134 </building>
+				<number> 36 </number>
+				<region> Sidi gaber </region>
+				<city> Alexandria </city>
+				<country> Egypr </country>
+		</address>
+	</employee>
+
+</contacts>
