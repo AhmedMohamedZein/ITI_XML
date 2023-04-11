@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-stylesheet type="text/css" href="dayone.css"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+
 
 <contacts>
 	
@@ -14,7 +15,7 @@
 				<number> 17 </number>
 				<region> Sidi behser </region>
 				<city> Alexandria </city>
-				<country> Egypr </country>
+				<country> Egypt </country>
 		</address>
 		<address>
 				<street> Por said </street>
@@ -22,7 +23,7 @@
 				<number> 36 </number>
 				<region> Sidi gaber </region>
 				<city> Alexandria </city>
-				<country> Egypr </country>
+				<country> Egypt </country>
 		</address>
 	</employee>
 	
@@ -37,7 +38,7 @@
 				<number> 17 </number>
 				<region> Sidi behser </region>
 				<city> Alexandria </city>
-				<country> Egypr </country>
+				<country> Egypt </country>
 		</address>
 		<address>
 				<street> Por said </street>
@@ -45,7 +46,7 @@
 				<number> 36 </number>
 				<region> Sidi gaber </region>
 				<city> Alexandria </city>
-				<country> Egypr </country>
+				<country> Egypt </country>
 		</address>
 	</employee>
 	
@@ -60,7 +61,7 @@
 				<number> 17 </number>
 				<region> Sidi behser </region>
 				<city> Alexandria </city>
-				<country> Egypr </country>
+				<country> Egypt </country>
 		</address>
 		<address>
 				<street> Por said </street>
@@ -68,7 +69,7 @@
 				<number> 36 </number>
 				<region> Sidi gaber </region>
 				<city> Alexandria </city>
-				<country> Egypr </country>
+				<country> Egypt </country>
 		</address>
 	</employee>
 
