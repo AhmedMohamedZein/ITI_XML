@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT company (employee+)>
+<!ELEMENT employee (name,email,phones,addresses)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phones (phone+)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT addresses (address+)>
+<!ELEMENT address (street,buildingnumber,region,city,country)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT buildingnumber (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!-- <!ELEMENT city (#PCDATA)> -->
+<!ELEMENT country (#PCDATA)>
+<!ATTLIST employee id ID #REQUIRED >
+<!ATTLIST phone type (home|work|mobile) #REQUIRED>
+
+
+<!--– Info. of each employee consists of a name, phones,  addresses, and e-mail.
+– The phones element may have more than phone element.
+– Each phone element has one attribute called Type. The Type attribute takes one of the following values: home, work or mobile. 
+– The addresses element may have more than address element.
+– Each address element must consist of the following elements: Street,  Building Number, Region, City, and Country.
+– The element e-mail must be exist for all employees.
+-->
+
+

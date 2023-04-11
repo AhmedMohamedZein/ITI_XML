@@ -1,0 +1,50 @@
+company{
+    background-color: rgb(40, 44, 48);
+}
+
+employee{
+
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+align-content: space-around;
+ 
+   
+}
+
+name{
+    background-color: rgba(125, 172, 141, 0.514);
+    width: 100%;
+    font-size:xx-large
+    
+}
+
+email{
+    background-color: rgb(200, 170, 224);
+    width: 100%;
+    
+}
+
+phones{
+    background-color: blueviolet;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+phone{
+    background-color: beige;
+    width: 100%;
+}
+
+addresses {
+    background-color: cadetblue;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
+
+*{
+    font-size: x-large;
+}

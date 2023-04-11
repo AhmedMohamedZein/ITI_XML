@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "Untitled2.dtd">
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<company>
+
+<employee id="_1">
+<name>Omar</name>
+<email>omar@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">0353338888</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>Abouqer</street>
+<buildingnumber>25</buildingnumber>
+<region>Elraml</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee>
+
+
+<employee id="_2">
+<name>Ahmed</name>
+<email>ahmed@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">035333</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>smouha</street>
+<buildingnumber>25</buildingnumber>
+<region>Elraml</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee>
+
+<employee id="_3">
+<name>Ali</name>
+<email>ALI@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">035333</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>ELmamora</street>
+<buildingnumber>25</buildingnumber>
+<region>Elmontaza</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee>
+
+<employee id="_3">
+<name>emad</name>
+<email>emmmmaaad@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">035333</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>ELmamora</street>
+<buildingnumber>25</buildingnumber>
+<region>Elmontaza</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee>
+<employee id="_3">
+<name>hassan</name>
+<email>hassan@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">035333</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>ELmamora</street>
+<buildingnumber>25</buildingnumber>
+<region>Elmontaza</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee>
+
+
+<employee><name>Ali</name><email>ALI@test.com</email><phones><phone type="mobile">035344</phone></phones><addresses><street>ELmamora</street></addresses></employee><employee><name>emad</name><email>emmmmaaad@test.com</email><phones><phone type="mobile">0106666666</phone></phones><addresses><street>ELmamora</street></addresses></employee><employee><name>Ahmed</name><email>ahmed@test.com</email><phones><phone type="mobile">0353338888</phone></phones><addresses><street>smouha</street></addresses></employee><employee><name>emad</name><email>emmmmaaad@test.com</email><phones><phone type="mobile">0106666666</phone></phones><addresses><street>ELmamora</street></addresses></employee><employee><name>omar alaa mansor</name><email>oioioioid@test.com</email><phones><phone type="mobile">01063337988</phone></phones><addresses><street>sedibeshr, 23,9,algehhadburj,30st</street></addresses></employee><employee><name>hassan</name><email>hassan@test.com</email><phones><phone type="mobile">035333</phone></phones><addresses><street>ELmamora</street></addresses></employee><employee><name>Ali</name><email>ALI@test.com</email><phones><phone type="mobile">035344</phone></phones><addresses><street>ELmamora</street></addresses></employee></company>
+<!-- <employee id="_3">
+<name>emad</name>
+<email>emad@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">035333</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>ELmamora</street>
+<buildingnumber>25</buildingnumber>
+<region>Elmontaza</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee>
+<employee id="_3">
+<name>hassan</name>
+<email>hassan@test.com</email>
+<phones>
+<phone type="mobile">0106666666</phone>
+<phone type="home">035333</phone> 
+<phone type="work">035344</phone>
+</phones>
+<addresses>
+<address>
+<street>ELmamora</street>
+<buildingnumber>25</buildingnumber>
+<region>Elmontaza</region>
+<city>Alexandria</city>
+<country>Egypt</country>
+</address>
+</addresses>
+</employee> -->
